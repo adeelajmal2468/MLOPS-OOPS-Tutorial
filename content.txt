@@ -1,0 +1,12 @@
+1- Class and Objects with examples.
+2- Class has Data/Attributes and it has Function/Methods.
+    > Code Walkthrough
+    > attributes get called itself, methods are called manually.
+3- Why python is called object oriented programming (OOP)?
+    > Everything in python is an object jo ka class sa mil kar bania hua hai (data structure, data type etc.)
+4- Advantages of OOPs:
+    > You can create your own datatype e.g in python if you write a + b and suppose a = "x" and b = "y" and print a + b it will result in xy
+    so you can create an algebra datatype using OOPS.
+    > Code reusability. You can use the code from one project to another project as a template.
+    > Debugging. Modular coding ma log msg sa ham asani sa pta laga sakta hain ka konsi class and konsa function ma error hai.
+    > Easy to Colab.
