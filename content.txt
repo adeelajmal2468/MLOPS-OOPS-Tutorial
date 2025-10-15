@@ -10,3 +10,8 @@
     > Code reusability. You can use the code from one project to another project as a template.
     > Debugging. Modular coding ma log msg sa ham asani sa pta laga sakta hain ka konsi class and konsa function ma error hai.
     > Easy to Colab.
+
+5- End to end Project (Chatbook class)
+    > encapsulation
+    > getter and setter
+    > static method
